@@ -1,0 +1,36 @@
+#judul
+{
+    background-color: dodgerblue;
+    padding: 10px;
+    text-transform: uppercase;
+    text-shadow: 3px 2px red;
+}
+
+#hakcipta
+{
+    text-align: center;
+    border-bottom: 6px solid red;
+    background-color: lightgrey;
+}
+
+#badan
+{
+    background-color: lightblue;
+}
+
+#tabel,td,th
+{
+    border: 1px solid greenyellow;
+    text-align: left;
+}
+
+#table 
+{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#th, td 
+{
+    padding: 15px;
+}

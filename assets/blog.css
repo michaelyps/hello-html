@@ -1,0 +1,31 @@
+#judul
+{
+    background-color: dodgerblue;
+    padding: 10px;
+    text-transform: uppercase;
+    text-shadow: 3px 2px red;
+}
+
+#gambar
+{
+    float: left;
+}
+
+#tulisan
+{
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+}
+
+#badan
+{
+    background-color: lightblue;
+}
+
+#hakcipta
+{
+    text-align: center;
+    border-bottom: 6px solid red;
+    background-color: lightgrey;
+}
